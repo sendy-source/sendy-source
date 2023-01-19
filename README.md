@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sendy-source
-- 👀 I’m interested in Data Analytics and Science
-- 🌱 I’m currently learning About Data Science, Data Analytic, Machine Learning and Cloud Computing.
+- 👋 Hi, I’m Sendy
+- 👀 I’m interested in Data Science, Data Analytics, Machine Learning and Cloud Computing
+- 🌱 I’m currently learning About Python, R, Data Science, Data Analytic, Machine Learning and Cloud Computing.
 - 💞️ I’m looking to collaborate on hmmm....(thinking)
 - 📫 How to reach me https://www.linkedin.com/in/send1 
 
